@@ -1,13 +1,2 @@
-# Ignore the .gitignore file itself
-.gitignore
-
-# Ignore temporary files
 *~
-
-# Ignore build artifacts
-/build/
-/dist/
-
-# Ignore configuration files with sensitive information
-config.ini
 
